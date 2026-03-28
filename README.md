@@ -32,8 +32,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: https://github.com/FreeDev-Group/Profile-Card-Component-Alain.git  
-- Live Site URL: (add your live site link here)
+- Solution URL: [View solution]https://github.com/FreeDev-Group/Profile-Card-Component-Alain.git  
+- Live Site URL:[Live site](add your live site link here)
 
 
 ## My process
@@ -78,11 +78,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ## Author
 
 - Frontend Mentor - [@alainbahanep](https://www.frontendmentor.io/profile/alainbahanep)  
-- GitHub - https://github.com/FreeDev-Group/Profile-Card-Component-Alain  
+- GitHub - [GitHub] (https://github.com/FreeDev-Group/Profile-Card-Component-Alain)
 
 
 ## Acknowledgments
 
 Acknowledgement:  
-- My mentor Salomon Mwilo  
-- FreeDev Group
+- My mentor **Salomon Mwilo** 
+- **FreeDev Group**
