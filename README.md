@@ -32,8 +32,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [View solution]https://github.com/FreeDev-Group/Profile-Card-Component-Alain.git  
-- Live Site URL:[Live site](add your live site link here)
+- Solution URL: [View solution](https://github.com/FreeDev-Group/Profile-Card-Component-Alain.git)  
+- Live Site URL:[View Live site](add your live site link here)
 
 
 ## My process
@@ -64,8 +64,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Useful resources
 
-- Frontend Mentor challenge: https://www.frontendmentor.io  
-- MDN Web Docs: https://developer.mozilla.org  
+- https://www.frontendmentor.io  
+- https://developer.mozilla.org  
 
 
 ### AI Collaboration
@@ -77,8 +77,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@alainbahanep](https://www.frontendmentor.io/profile/alainbahanep)  
-- GitHub - [GitHub] (https://github.com/FreeDev-Group/Profile-Card-Component-Alain)
+- [@alainbahanep](https://www.frontendmentor.io/profile/alainbahanep)  
+- [GitHub] (https://github.com/FreeDev-Group/Profile-Card-Component-Alain)
 
 
 ## Acknowledgments
