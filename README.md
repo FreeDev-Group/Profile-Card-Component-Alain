@@ -1,197 +1,88 @@
-## Purpose of the `develop` Branch
+# Frontend Mentor - Profile card component solution
 
-The `develop` branch is where all the work happens before going to `main`.
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-You will:
+## Table of contents
 
-* Work on features
-* Practice Git workflow
-* Collaborate as a team
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [AI Collaboration](#ai-collaboration)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-**Do NOT push directly to `main`**
 
-___ 
+## Overview
 
-## About This Challenge
+### The challenge
 
-This project is based on the Frontend Mentor – Profile Card Component challenge.
-https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
+- Build out the project to the designs provided
 
-### Objective
 
-Build a profile card component that matches the provided design as closely as possible.
+### Screenshot
 
-Do not start coding immediately without understanding the design.
----
+![](./Screenshot4.jpg)
 
-## Branching Strategy
 
-Each task = one branch
+### Links
 
-### Naming Convention
+- Solution URL: [View solution](https://github.com/FreeDev-Group/Profile-Card-Component-Alain.git)  
+- Live Site URL:[View Live site](add your live site link here)
 
-```
-feature/<your-name>-<task>
-```
 
-Examples:
+## My process
 
-* `feature/yusse-html-structure`
-* `feature/alain-css-style`
-* `feature/david-layout`
+### Built with
 
----
+- Semantic HTML5 markup  
+- CSS custom properties  
+- Flexbox  
+- Mobile-first workflow  
 
-## Why We Use Branches
 
-Branches allow us to:
+### What I learned
 
-* Work independently without breaking the project
-* Test changes safely
-* Collaborate in an organized way
+- How to center elements using Flexbox  
+- How to position elements like the avatar correctly  
+- How to structure a clean and organized HTML layout  
+- How to use CSS variables to manage colors  
 
-Think of a branch as your **personal workspace**
 
----
+### Continued development
 
-## Commit – Step by Step
+- Improve responsive design skills  
+- Better mastery of Flexbox and layout techniques  
+- Writing cleaner and more maintainable CSS  
+- Practicing more real-world UI components  
 
-A commit = saving your progress
 
-### When to Commit
+### Useful resources
 
-You should commit when:
+- https://www.frontendmentor.io  
+- https://developer.mozilla.org  
 
-* You complete a small task
-* You make a meaningful change
-* You fix a bug
 
-Do NOT commit everything at once at the end
-Commit regularly
+### AI Collaboration
 
----
+- I used ChatGPT to help debug my layout and Git workflow  
+- I used AI to better understand how to structure Git branches and commits  
+- AI helped me improve my workflow and clean my code organization  
 
-### How to Commit
 
-```
-git add .
-git commit -m "your message"
-```
+## Author
 
----
+- [@alainbahanep](https://www.frontendmentor.io/profile/alainbahanep)  
+- [GitHub] (https://github.com/FreeDev-Group/Profile-Card-Component-Alain)
 
-## Commit Message Standard
 
-We use a simple format:
+## Acknowledgments
 
-```
-type: short description
-```
-
-### Types
-
-* `feat:` → new feature
-* `fix:` → bug fix
-* `style:` → design / CSS
-* `docs:` → documentation
-* `setup:` → project setup
-
----
-
-### Examples
-
-```
-feat: add HTML structure
-style: add card styling
-fix: correct image alignment
-docs: update README
-setup: initial project setup
-```
-
----
-
-## Why Commit Messages Matter
-
-They help us:
-
-* Understand what was done
-* Track progress
-* Review code easily
-
-A good commit message = clear communication
-
----
-
-## Pull Request (PR)
-
-A Pull Request = asking to merge your work into `develop`
-
----
-
-### Why We Use PR
-
-* To review your work
-* To give feedback
-* To maintain code quality
-
-No PR = No collaboration
-
----
-
-### When to Create a PR
-
-Create a PR when:
-
-* Your task is complete
-* Your code is working
-* You are ready for review
-
----
-
-### PR Process
-
-1. Push your branch
-2. Open Pull Request → `develop`
-3. Add a description:
-
-Example:
-
-```
-- Added HTML structure
-- Styled the card layout
-- Fixed spacing issues
-```
-
-4. Wait for review
-5. Apply corrections if needed
-
----
-
-## Important Rules
-
-* One issue = one branch
-* One task = multiple commits (if needed)
-* Always create a PR
-* Never push directly to `develop` or `main`
-* Always write clear commit messages
-
----
-
-## Learning Objective
-
-This project is not just about coding.
-
-You are learning:
-
-* How to work like a developer
-* How to collaborate using Git
-* How to structure your work
-
----
-
-## Final Note
-
-**Do not be afraid to make mistakes.**
-
-Mistakes are part of the learning process.
-The goal is to improve step by step.
+Acknowledgement:  
+- My mentor **Salomon Mwilo** 
+- **FreeDev Group**
